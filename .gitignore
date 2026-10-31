@@ -1,0 +1,10 @@
+.env
+logs/
+plugins/
+__pycache__/
+*.pyc
+airflow.db
+airflow.cfg
+standalone_admin_password.txt
+.venv/
+airflow3/
