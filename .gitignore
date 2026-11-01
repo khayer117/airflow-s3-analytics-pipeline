@@ -8,3 +8,4 @@ airflow.cfg
 standalone_admin_password.txt
 .venv/
 airflow3/
+docs/
